@@ -1,0 +1,182 @@
+[
+    {
+      "pergunta": "Qual o nome do protagonista de Persona 4 Golden?",
+      "respostas": [
+        { "opcao": "Yu Narukami", "correto": true },
+        { "opcao": "Souji Seta", "correto": false },
+        { "opcao": "Ren Amamiya", "correto": false },
+        { "opcao": "Makoto Yuki", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Em que cidade Persona 4 Golden se passa?",
+      "respostas": [
+        { "opcao": "Inaba", "correto": true },
+        { "opcao": "Tatsumi Port Island", "correto": false },
+        { "opcao": "Tokyo", "correto": false },
+        { "opcao": "Yomitan", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do primeiro Persona despertado pelo protagonista?",
+      "respostas": [
+        { "opcao": "Izanagi", "correto": true },
+        { "opcao": "Arsène", "correto": false },
+        { "opcao": "Orpheus", "correto": false },
+        { "opcao": "Thanatos", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual personagem é conhecido por seu bordão 'Every day's great at your Junes!'?",
+      "respostas": [
+        { "opcao": "Nanako Dojima", "correto": true },
+        { "opcao": "Chie Satonaka", "correto": false },
+        { "opcao": "Teddie", "correto": false },
+        { "opcao": "Kanji Tatsumi", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do urso que vive dentro da TV?",
+      "respostas": [
+        { "opcao": "Teddie", "correto": true },
+        { "opcao": "Koromaru", "correto": false },
+        { "opcao": "Morgana", "correto": false },
+        { "opcao": "Aigis", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o elemento principal do Persona de Chie Satonaka?",
+      "respostas": [
+        { "opcao": "Físico", "correto": true },
+        { "opcao": "Fogo", "correto": false },
+        { "opcao": "Gelo", "correto": false },
+        { "opcao": "Elétrico", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Shadow de Yosuke Hanamura?",
+      "respostas": [
+        { "opcao": "Shadow Yosuke", "correto": true },
+        { "opcao": "Fool", "correto": false },
+        { "opcao": "Magician", "correto": false },
+        { "opcao": "Take-Mikazuchi", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome da nova personagem introduzida em Persona 4 Golden?",
+      "respostas": [
+        { "opcao": "Marie", "correto": true },
+        { "opcao": "Rise Kujikawa", "correto": false },
+        { "opcao": "Naoto Shirogane", "correto": false },
+        { "opcao": "Ai Ebihara", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Velvet Room attendant parceiro de Igor em Persona 4 Golden?",
+      "respostas": [
+        { "opcao": "Margaret", "correto": true },
+        { "opcao": "Elizabeth", "correto": false },
+        { "opcao": "Theodore", "correto": false },
+        { "opcao": "Lavenza", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o hobby secreto de Kanji Tatsumi?",
+      "respostas": [
+        { "opcao": "Costura", "correto": true },
+        { "opcao": "Cozinhar", "correto": false },
+        { "opcao": "Ler mangás", "correto": false },
+        { "opcao": "Pescar", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Persona inicial de Yukiko Amagi?",
+      "respostas": [
+        { "opcao": "Konohana Sakuya", "correto": true },
+        { "opcao": "Himiko", "correto": false },
+        { "opcao": "Tomoe", "correto": false },
+        { "opcao": "Penthesilea", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do programa de televisão que anuncia os assassinatos?",
+      "respostas": [
+        { "opcao": "Midnight Channel", "correto": true },
+        { "opcao": "Late Night Show", "correto": false },
+        { "opcao": "TV Confessions", "correto": false },
+        { "opcao": "Shadow Hour", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o instrumento musical que toca na música tema 'Reach Out To The Truth'?",
+      "respostas": [
+        { "opcao": "Guitarra", "correto": true },
+        { "opcao": "Piano", "correto": false },
+        { "opcao": "Violino", "correto": false },
+        { "opcao": "Saxofone", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Shadow de Rise Kujikawa?",
+      "respostas": [
+        { "opcao": "Shadow Rise", "correto": true },
+        { "opcao": "Lover", "correto": false },
+        { "opcao": "Priestess", "correto": false },
+        { "opcao": "Kanzeon", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Persona inicial de Naoto Shirogane?",
+      "respostas": [
+        { "opcao": "Sukuna-Hikona", "correto": true },
+        { "opcao": "Yamato-Takeru", "correto": false },
+        { "opcao": "Tsukuyomi", "correto": false },
+        { "opcao": "Satanael", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome da loja de conveniência local?",
+      "respostas": [
+        { "opcao": "Junes", "correto": true },
+        { "opcao": "7-Eleven", "correto": false },
+        { "opcao": "FamilyMart", "correto": false },
+        { "opcao": "Lawson", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o elemento principal do Persona de Kanji Tatsumi?",
+      "respostas": [
+        { "opcao": "Elétrico", "correto": true },
+        { "opcao": "Fogo", "correto": false },
+        { "opcao": "Vento", "correto": false },
+        { "opcao": "Gelo", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do professor de inglês da turma do protagonista?",
+      "respostas": [
+        { "opcao": "Mr. Morooka", "correto": true },
+        { "opcao": "Ms. Sofue", "correto": false },
+        { "opcao": "Mr. Yamada", "correto": false },
+        { "opcao": "Ms. Kashiwagi", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Persona final do protagonista na rota normal?",
+      "respostas": [
+        { "opcao": "Izanagi-no-Okami", "correto": true },
+        { "opcao": "Messiah", "correto": false },
+        { "opcao": "Satanael", "correto": false },
+        { "opcao": "Yoshitsune", "correto": false }
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do Social Link associado a Marie?",
+      "respostas": [
+        { "opcao": "Aeon", "correto": true },
+        { "opcao": "Justice", "correto": false },
+        { "opcao": "Strength", "correto": false },
+        { "opcao": "Hanged Man", "correto": false }
+      ]
+    }
+  ]
